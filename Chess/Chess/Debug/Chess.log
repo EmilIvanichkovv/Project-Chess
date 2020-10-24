@@ -1,0 +1,21 @@
+﻿  Board.cpp
+  Chess.cpp
+  GamePlay.cpp
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(807,23): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(814,21): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(815,22): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(817,20): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(818,21): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(819,22): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(820,21): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(823,21): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(824,22): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(852,30): warning C4305: '=': truncation from 'int' to 'char'
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(852,26): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(853,26): warning C4305: '=': truncation from 'int' to 'char'
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(853,22): warning C4309: '=': truncation of constant value
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(854,30): warning C4305: '=': truncation from 'int' to 'char'
+D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Chess\GamePlay.cpp(854,26): warning C4309: '=': truncation of constant value
+  Piece.cpp
+  Generating Code...
+  Chess.vcxproj -> D:\Users\Emil IvanichkoV\Documents\Visual Studio 2019\Projects\OOP 2019\Chess\Проект Шахмат - Емил Иваничков\Chess\Debug\Chess.exe
